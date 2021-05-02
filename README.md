@@ -1,0 +1,2 @@
+# Task-3-Exploratory-Data-Analysis-Retail-level--Beginner-
+GRIP @The Spark Foundation Data Science  Business Analytics Intern Task : Exploratory Data Analysis on Retail. I have done the task on  Jupyter  Notebook by including the relevant libraries. I performed statistics and analysis to raw conclusion on profit, sales and region wise avenue, which  performed well and which didn't and what were the reasons.  The task is for the month of MAY 2021. Thank You The Spark Foundation for giving this
